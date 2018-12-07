@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.crm.searchContactTestScripts.SendMail">
+        <methods>
+          <include name="preConfig"/>
+          <include name="configBS"/>
+          <include name="configAS"/>
+          <include name="preTest"/>
+          <include name="postConfig"/>
+          <include name="postTest"/>
+          <include name="sendMailTC_33"/>
+          <include name="sendMailTC_47"/>
+        </methods>
+      </class> <!-- com.crm.searchContactTestScripts.SendMail -->
+      <class name="com.crm.contacts.test.CampaignTestTC_04">
+        <methods>
+          <include name="preConfig"/>
+          <include name="configBS"/>
+          <include name="searchContactTC_47"/>
+          <include name="configAS"/>
+          <include name="preTest"/>
+          <include name="postConfig"/>
+          <include name="postTest"/>
+        </methods>
+      </class> <!-- com.crm.contacts.test.CampaignTestTC_04 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

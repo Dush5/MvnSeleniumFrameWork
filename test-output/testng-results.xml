@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53613" started-at="2018-11-26T09:53:11Z" finished-at="2018-11-26T09:54:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53613" started-at="2018-11-26T09:53:11Z" finished-at="2018-11-26T09:54:05Z">
+      <class name="com.crm.CampaignTestScripts.CreateCampaign">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="configBS" is-config="true" duration-ms="225" started-at="2018-11-26T09:53:11Z" finished-at="2018-11-26T09:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="preConfig()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="preConfig" is-config="true" duration-ms="7983" started-at="2018-11-26T09:53:11Z" finished-at="2018-11-26T09:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConfig -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="preTest" is-config="true" duration-ms="4460" started-at="2018-11-26T09:53:19Z" finished-at="2018-11-26T09:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="cancelCampaignTC_05()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="cancelCampaignTC_05" duration-ms="9739" started-at="2018-11-26T09:53:24Z" finished-at="2018-11-26T09:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelCampaignTC_05 -->
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="postTest" is-config="true" duration-ms="1883" started-at="2018-11-26T09:53:33Z" finished-at="2018-11-26T09:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="preTest" is-config="true" duration-ms="3513" started-at="2018-11-26T09:53:35Z" finished-at="2018-11-26T09:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="cancelCampaignTC_05()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="cancelCampaignTC_05" duration-ms="9227" started-at="2018-11-26T09:53:39Z" finished-at="2018-11-26T09:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelCampaignTC_05 -->
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="postTest" is-config="true" duration-ms="1855" started-at="2018-11-26T09:53:48Z" finished-at="2018-11-26T09:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="preTest" is-config="true" duration-ms="3478" started-at="2018-11-26T09:53:50Z" finished-at="2018-11-26T09:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="cancelCampaignTC_05()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="cancelCampaignTC_05" duration-ms="9507" started-at="2018-11-26T09:53:53Z" finished-at="2018-11-26T09:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelCampaignTC_05 -->
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="postTest" is-config="true" duration-ms="1909" started-at="2018-11-26T09:54:03Z" finished-at="2018-11-26T09:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+        <test-method status="PASS" signature="postConfig()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="postConfig" is-config="true" duration-ms="22" started-at="2018-11-26T09:54:05Z" finished-at="2018-11-26T09:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConfig -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.crm.CampaignTestScripts.CreateCampaign@4f7d0008]" name="configAS" is-config="true" duration-ms="461" started-at="2018-11-26T09:54:05Z" finished-at="2018-11-26T09:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.crm.CampaignTestScripts.CreateCampaign -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
